@@ -1,9 +1,11 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using WebApiProduccion.Data.Interfaces;
 
 namespace WebApiProduccion.Controllers
 {
     [Route("api/Books")]
+    [Authorize]
     [ApiController]
     public class BooksController : ControllerBase
     {

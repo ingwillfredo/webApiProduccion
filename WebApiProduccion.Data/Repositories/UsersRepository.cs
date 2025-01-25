@@ -9,14 +9,17 @@ using System.Threading.Tasks;
 using WebApiProduccion.Data.Data;
 using WebApiProduccion.Data.Interfaces;
 using WebApiProduccion.Entities;
+using WebApiProduccion.Entities.Models;
 using static System.Reflection.Metadata.BlobBuilder;
 
 namespace WebApiProduccion.Data.Repositories
 {
     public class UsersRepository : IUsersRepository
     {
-        public UsersRepository() 
-        { 
+        private readonly PasswordEncryptor _util;
+        public UsersRepository(PasswordEncryptor util) 
+        {
+            _util = util;
         }
 
         async Task<string> IUsersRepository.AddUser(AddUser user)
@@ -54,7 +57,7 @@ namespace WebApiProduccion.Data.Repositories
 
 
 
-        async Task<bool> IUsersRepository.LoginUser(LoginUser user)
+        async Task<LoginUser> IUsersRepository.LoginUser(Login user)
         {
             string messageResult = string.Empty;
             LoginUser loginUser = new LoginUser();
@@ -73,6 +76,8 @@ namespace WebApiProduccion.Data.Repositories
                 {
                     while (dr.Read())
                     {
+                        loginUser.Id = Convert.ToInt32(dr["Id_User"]);
+                        loginUser.Name = dr["Name_User"].ToString();
                         loginUser.Email = dr["Email_User"].ToString();
                         loginUser.Password = dr["Password_UserLogin"].ToString();
                     }
@@ -85,16 +90,17 @@ namespace WebApiProduccion.Data.Repositories
 
                     if (isMatch)
                     {
-                        return true;
+                        loginUser.Token = _util.generateJWT(loginUser);
+                        return loginUser;
                     }
                     else
                     {
-                        return false;
+                        return loginUser;
                     }
                 }
                 else
                 {
-                    return false;
+                    return loginUser;
                 }
             }
             catch (Exception ex)

@@ -3,44 +3,16 @@
   "WorkspaceRootPath": "C:\\Pruebas\\webApiProduccion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4BDD6E34-8384-4604-B99F-29598CFCC779}|WebApiProduccion\\WebApiProduccion.csproj|c:\\pruebas\\webapiproduccion\\webapiproduccion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BDD6E34-8384-4604-B99F-29598CFCC779}|WebApiProduccion\\WebApiProduccion.csproj|solutionrelative:webapiproduccion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BDD6E34-8384-4604-B99F-29598CFCC779}|WebApiProduccion\\WebApiProduccion.csproj|c:\\pruebas\\webapiproduccion\\webapiproduccion\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDD6E34-8384-4604-B99F-29598CFCC779}|WebApiProduccion\\WebApiProduccion.csproj|solutionrelative:webapiproduccion\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4BDD6E34-8384-4604-B99F-29598CFCC779}|WebApiProduccion\\WebApiProduccion.csproj|c:\\pruebas\\webapiproduccion\\webapiproduccion\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BDD6E34-8384-4604-B99F-29598CFCC779}|WebApiProduccion\\WebApiProduccion.csproj|solutionrelative:webapiproduccion\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F675D67B-D603-4396-9193-1000E5F23EFF}|WebApiProduccion.Data\\WebApiProduccion.Data.csproj|c:\\pruebas\\webapiproduccion\\webapiproduccion.data\\repositories\\reviewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F675D67B-D603-4396-9193-1000E5F23EFF}|WebApiProduccion.Data\\WebApiProduccion.Data.csproj|solutionrelative:webapiproduccion.data\\repositories\\reviewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F675D67B-D603-4396-9193-1000E5F23EFF}|WebApiProduccion.Data\\WebApiProduccion.Data.csproj|c:\\pruebas\\webapiproduccion\\webapiproduccion.data\\interfaces\\ireviewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F675D67B-D603-4396-9193-1000E5F23EFF}|WebApiProduccion.Data\\WebApiProduccion.Data.csproj|solutionrelative:webapiproduccion.data\\interfaces\\ireviewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F675D67B-D603-4396-9193-1000E5F23EFF}|WebApiProduccion.Data\\WebApiProduccion.Data.csproj|c:\\pruebas\\webapiproduccion\\webapiproduccion.data\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F675D67B-D603-4396-9193-1000E5F23EFF}|WebApiProduccion.Data\\WebApiProduccion.Data.csproj|solutionrelative:webapiproduccion.data\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{501D7B73-FF12-4229-8001-13A70CDF199B}|WebApiProduccion.Entities\\WebApiProduccion.Entities.csproj|c:\\pruebas\\webapiproduccion\\webapiproduccion.entities\\models\\addreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{501D7B73-FF12-4229-8001-13A70CDF199B}|WebApiProduccion.Entities\\WebApiProduccion.Entities.csproj|solutionrelative:webapiproduccion.entities\\models\\addreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{501D7B73-FF12-4229-8001-13A70CDF199B}|WebApiProduccion.Entities\\WebApiProduccion.Entities.csproj|c:\\pruebas\\webapiproduccion\\webapiproduccion.entities\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{501D7B73-FF12-4229-8001-13A70CDF199B}|WebApiProduccion.Entities\\WebApiProduccion.Entities.csproj|solutionrelative:webapiproduccion.entities\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{501D7B73-FF12-4229-8001-13A70CDF199B}|WebApiProduccion.Entities\\WebApiProduccion.Entities.csproj|c:\\pruebas\\webapiproduccion\\webapiproduccion.entities\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{501D7B73-FF12-4229-8001-13A70CDF199B}|WebApiProduccion.Entities\\WebApiProduccion.Entities.csproj|solutionrelative:webapiproduccion.entities\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F675D67B-D603-4396-9193-1000E5F23EFF}|WebApiProduccion.Data\\WebApiProduccion.Data.csproj|c:\\pruebas\\webapiproduccion\\webapiproduccion.data\\repositories\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F675D67B-D603-4396-9193-1000E5F23EFF}|WebApiProduccion.Data\\WebApiProduccion.Data.csproj|solutionrelative:webapiproduccion.data\\repositories\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BDD6E34-8384-4604-B99F-29598CFCC779}|WebApiProduccion\\WebApiProduccion.csproj|c:\\pruebas\\webapiproduccion\\webapiproduccion\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BDD6E34-8384-4604-B99F-29598CFCC779}|WebApiProduccion\\WebApiProduccion.csproj|solutionrelative:webapiproduccion\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BDD6E34-8384-4604-B99F-29598CFCC779}|WebApiProduccion\\WebApiProduccion.csproj|c:\\pruebas\\webapiproduccion\\webapiproduccion\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDD6E34-8384-4604-B99F-29598CFCC779}|WebApiProduccion\\WebApiProduccion.csproj|solutionrelative:webapiproduccion\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,104 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 237,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Pruebas\\webApiProduccion\\WebApiProduccion\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "WebApiProduccion\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Pruebas\\webApiProduccion\\WebApiProduccion\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "WebApiProduccion\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T22:25:26.639Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BooksRepository.cs",
-              "DocumentMoniker": "C:\\Pruebas\\webApiProduccion\\WebApiProduccion.Data\\Repositories\\BooksRepository.cs",
-              "RelativeDocumentMoniker": "WebApiProduccion.Data\\Repositories\\BooksRepository.cs",
-              "ToolTip": "C:\\Pruebas\\webApiProduccion\\WebApiProduccion.Data\\Repositories\\BooksRepository.cs",
-              "RelativeToolTip": "WebApiProduccion.Data\\Repositories\\BooksRepository.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowDMAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T21:48:30.785Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Pruebas\\webApiProduccion\\WebApiProduccion.Entities\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "WebApiProduccion.Entities\\Models\\Book.cs",
-              "ToolTip": "C:\\Pruebas\\webApiProduccion\\WebApiProduccion.Entities\\Models\\Book.cs",
-              "RelativeToolTip": "WebApiProduccion.Entities\\Models\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T21:36:44.7Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Review.cs",
-              "DocumentMoniker": "C:\\Pruebas\\webApiProduccion\\WebApiProduccion.Entities\\Models\\Review.cs",
-              "RelativeDocumentMoniker": "WebApiProduccion.Entities\\Models\\Review.cs",
-              "ToolTip": "C:\\Pruebas\\webApiProduccion\\WebApiProduccion.Entities\\Models\\Review.cs",
-              "RelativeToolTip": "WebApiProduccion.Entities\\Models\\Review.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T21:34:22.285Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AddReview.cs",
-              "DocumentMoniker": "C:\\Pruebas\\webApiProduccion\\WebApiProduccion.Entities\\Models\\AddReview.cs",
-              "RelativeDocumentMoniker": "WebApiProduccion.Entities\\Models\\AddReview.cs",
-              "ToolTip": "C:\\Pruebas\\webApiProduccion\\WebApiProduccion.Entities\\Models\\AddReview.cs",
-              "RelativeToolTip": "WebApiProduccion.Entities\\Models\\AddReview.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T21:32:47.81Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsersRepository.cs",
-              "DocumentMoniker": "C:\\Pruebas\\webApiProduccion\\WebApiProduccion.Data\\Repositories\\UsersRepository.cs",
-              "RelativeDocumentMoniker": "WebApiProduccion.Data\\Repositories\\UsersRepository.cs",
-              "ToolTip": "C:\\Pruebas\\webApiProduccion\\WebApiProduccion.Data\\Repositories\\UsersRepository.cs",
-              "RelativeToolTip": "WebApiProduccion.Data\\Repositories\\UsersRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T21:30:52.585Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IReviewsRepository.cs",
-              "DocumentMoniker": "C:\\Pruebas\\webApiProduccion\\WebApiProduccion.Data\\Interfaces\\IReviewsRepository.cs",
-              "RelativeDocumentMoniker": "WebApiProduccion.Data\\Interfaces\\IReviewsRepository.cs",
-              "ToolTip": "C:\\Pruebas\\webApiProduccion\\WebApiProduccion.Data\\Interfaces\\IReviewsRepository.cs",
-              "RelativeToolTip": "WebApiProduccion.Data\\Interfaces\\IReviewsRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T21:28:08.299Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ReviewsRepository.cs",
-              "DocumentMoniker": "C:\\Pruebas\\webApiProduccion\\WebApiProduccion.Data\\Repositories\\ReviewsRepository.cs",
-              "RelativeDocumentMoniker": "WebApiProduccion.Data\\Repositories\\ReviewsRepository.cs",
-              "ToolTip": "C:\\Pruebas\\webApiProduccion\\WebApiProduccion.Data\\Repositories\\ReviewsRepository.cs",
-              "RelativeToolTip": "WebApiProduccion.Data\\Repositories\\ReviewsRepository.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwFsAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T21:28:33.107Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -156,21 +32,35 @@
               "RelativeDocumentMoniker": "WebApiProduccion\\Controllers\\ReviewsController.cs",
               "ToolTip": "C:\\Pruebas\\webApiProduccion\\WebApiProduccion\\Controllers\\ReviewsController.cs",
               "RelativeToolTip": "WebApiProduccion\\Controllers\\ReviewsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T13:51:15.998Z"
+              "WhenOpened": "2025-01-25T05:09:09.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Pruebas\\webApiProduccion\\WebApiProduccion\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "WebApiProduccion\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Pruebas\\webApiProduccion\\WebApiProduccion\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "WebApiProduccion\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T02:35:16.565Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Pruebas\\webApiProduccion\\WebApiProduccion\\Program.cs",
-              "RelativeDocumentMoniker": "WebApiProduccion\\Program.cs",
-              "ToolTip": "C:\\Pruebas\\webApiProduccion\\WebApiProduccion\\Program.cs",
-              "RelativeToolTip": "WebApiProduccion\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAiwB8AAABMAAAAAAAAAA==",
+              "Title": "AccessController.cs",
+              "DocumentMoniker": "C:\\Pruebas\\webApiProduccion\\WebApiProduccion\\Controllers\\AccessController.cs",
+              "RelativeDocumentMoniker": "WebApiProduccion\\Controllers\\AccessController.cs",
+              "ToolTip": "C:\\Pruebas\\webApiProduccion\\WebApiProduccion\\Controllers\\AccessController.cs",
+              "RelativeToolTip": "WebApiProduccion\\Controllers\\AccessController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T01:44:48.69Z",
+              "WhenOpened": "2025-01-25T02:06:07.603Z",
               "EditorCaption": ""
             }
           ]

@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using WebApiProduccion.Data.Interfaces;
 using WebApiProduccion.Data.Repositories;
 using WebApiProduccion.Entities;
@@ -7,6 +8,7 @@ using WebApiProduccion.Entities.Models;
 namespace WebApiProduccion.Controllers
 {
     [Route("api/Reviews")]
+    [Authorize]
     [ApiController]
 
     public class ReviewsController : ControllerBase

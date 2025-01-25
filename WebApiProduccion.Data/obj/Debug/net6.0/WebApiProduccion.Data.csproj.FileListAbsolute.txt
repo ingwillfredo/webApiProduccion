@@ -29,3 +29,5 @@ C:\Pruebas\webApiProduccion\WebApiProduccion.Data\obj\Debug\net6.0\WebApiProducc
 C:\Pruebas\webApiProduccion\WebApiProduccion.Data\obj\Debug\net6.0\refint\WebApiProduccion.Data.dll
 C:\Pruebas\webApiProduccion\WebApiProduccion.Data\obj\Debug\net6.0\WebApiProduccion.Data.pdb
 C:\Pruebas\webApiProduccion\WebApiProduccion.Data\obj\Debug\net6.0\ref\WebApiProduccion.Data.dll
+C:\Pruebas\webApiProduccion\WebApiProduccion.Data\bin\Debug\net6.0\WebApiProduccion.Data.runtimeconfig.json
+C:\Pruebas\webApiProduccion\WebApiProduccion.Data\obj\Debug\net6.0\WebApiProduccion.Data.genruntimeconfig.cache
