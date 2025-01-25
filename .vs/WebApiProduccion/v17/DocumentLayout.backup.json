@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Pruebas\\webApiProduccion\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F675D67B-D603-4396-9193-1000E5F23EFF}|WebApiProduccion.Data\\WebApiProduccion.Data.csproj|c:\\pruebas\\webapiproduccion\\webapiproduccion.data\\data\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F675D67B-D603-4396-9193-1000E5F23EFF}|WebApiProduccion.Data\\WebApiProduccion.Data.csproj|solutionrelative:webapiproduccion.data\\data\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDD6E34-8384-4604-B99F-29598CFCC779}|WebApiProduccion\\WebApiProduccion.csproj|c:\\pruebas\\webapiproduccion\\webapiproduccion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4BDD6E34-8384-4604-B99F-29598CFCC779}|WebApiProduccion\\WebApiProduccion.csproj|solutionrelative:webapiproduccion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F675D67B-D603-4396-9193-1000E5F23EFF}|WebApiProduccion.Data\\WebApiProduccion.Data.csproj|c:\\pruebas\\webapiproduccion\\webapiproduccion.data\\data\\passwordencryptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F675D67B-D603-4396-9193-1000E5F23EFF}|WebApiProduccion.Data\\WebApiProduccion.Data.csproj|solutionrelative:webapiproduccion.data\\data\\passwordencryptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F675D67B-D603-4396-9193-1000E5F23EFF}|WebApiProduccion.Data\\WebApiProduccion.Data.csproj|c:\\pruebas\\webapiproduccion\\webapiproduccion.data\\repositories\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F675D67B-D603-4396-9193-1000E5F23EFF}|WebApiProduccion.Data\\WebApiProduccion.Data.csproj|solutionrelative:webapiproduccion.data\\repositories\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4BDD6E34-8384-4604-B99F-29598CFCC779}|WebApiProduccion\\WebApiProduccion.csproj|c:\\pruebas\\webapiproduccion\\webapiproduccion\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BDD6E34-8384-4604-B99F-29598CFCC779}|WebApiProduccion\\WebApiProduccion.csproj|solutionrelative:webapiproduccion\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BDD6E34-8384-4604-B99F-29598CFCC779}|WebApiProduccion\\WebApiProduccion.csproj|c:\\pruebas\\webapiproduccion\\webapiproduccion\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BDD6E34-8384-4604-B99F-29598CFCC779}|WebApiProduccion\\WebApiProduccion.csproj|solutionrelative:webapiproduccion\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4BDD6E34-8384-4604-B99F-29598CFCC779}|WebApiProduccion\\WebApiProduccion.csproj|c:\\pruebas\\webapiproduccion\\webapiproduccion\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BDD6E34-8384-4604-B99F-29598CFCC779}|WebApiProduccion\\WebApiProduccion.csproj|solutionrelative:webapiproduccion\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDD6E34-8384-4604-B99F-29598CFCC779}|WebApiProduccion\\WebApiProduccion.csproj|c:\\pruebas\\webapiproduccion\\webapiproduccion\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDD6E34-8384-4604-B99F-29598CFCC779}|WebApiProduccion\\WebApiProduccion.csproj|solutionrelative:webapiproduccion\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +38,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 237,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BooksRepository.cs",
+              "DocumentMoniker": "C:\\Pruebas\\webApiProduccion\\WebApiProduccion.Data\\Repositories\\BooksRepository.cs",
+              "RelativeDocumentMoniker": "WebApiProduccion.Data\\Repositories\\BooksRepository.cs",
+              "ToolTip": "C:\\Pruebas\\webApiProduccion\\WebApiProduccion.Data\\Repositories\\BooksRepository.cs",
+              "RelativeToolTip": "WebApiProduccion.Data\\Repositories\\BooksRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T15:49:11.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Pruebas\\webApiProduccion\\WebApiProduccion\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiProduccion\\appsettings.json",
+              "ToolTip": "C:\\Pruebas\\webApiProduccion\\WebApiProduccion\\appsettings.json",
+              "RelativeToolTip": "WebApiProduccion\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-25T15:44:07.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PasswordEncryptor.cs",
+              "DocumentMoniker": "C:\\Pruebas\\webApiProduccion\\WebApiProduccion.Data\\Data\\PasswordEncryptor.cs",
+              "RelativeDocumentMoniker": "WebApiProduccion.Data\\Data\\PasswordEncryptor.cs",
+              "ToolTip": "C:\\Pruebas\\webApiProduccion\\WebApiProduccion.Data\\Data\\PasswordEncryptor.cs",
+              "RelativeToolTip": "WebApiProduccion.Data\\Data\\PasswordEncryptor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T15:41:24.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Pruebas\\webApiProduccion\\WebApiProduccion.Data\\Data\\Conexion.cs",
+              "RelativeDocumentMoniker": "WebApiProduccion.Data\\Data\\Conexion.cs",
+              "ToolTip": "C:\\Pruebas\\webApiProduccion\\WebApiProduccion.Data\\Data\\Conexion.cs*",
+              "RelativeToolTip": "WebApiProduccion.Data\\Data\\Conexion.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T15:40:11.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ReviewsController.cs",
               "DocumentMoniker": "C:\\Pruebas\\webApiProduccion\\WebApiProduccion\\Controllers\\ReviewsController.cs",
               "RelativeDocumentMoniker": "WebApiProduccion\\Controllers\\ReviewsController.cs",
@@ -38,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "BooksController.cs",
               "DocumentMoniker": "C:\\Pruebas\\webApiProduccion\\WebApiProduccion\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "WebApiProduccion\\Controllers\\BooksController.cs",
@@ -46,17 +114,18 @@
               "RelativeToolTip": "WebApiProduccion\\Controllers\\BooksController.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwCEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T02:35:16.565Z"
+              "WhenOpened": "2025-01-25T02:35:16.565Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "AccessController.cs",
               "DocumentMoniker": "C:\\Pruebas\\webApiProduccion\\WebApiProduccion\\Controllers\\AccessController.cs",
               "RelativeDocumentMoniker": "WebApiProduccion\\Controllers\\AccessController.cs",
               "ToolTip": "C:\\Pruebas\\webApiProduccion\\WebApiProduccion\\Controllers\\AccessController.cs",
               "RelativeToolTip": "WebApiProduccion\\Controllers\\AccessController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAqwEcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-25T02:06:07.603Z",
               "EditorCaption": ""

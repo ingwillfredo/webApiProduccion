@@ -1,8 +1,12 @@
---Script para crear base de datos ResenaLibros
+--Script para crear base de datos ResenaLibros (Produccion)
 
+--Primero Ejecutar El siguiente comando para crear la base de datos
 Create database DBBookReview
 
+-- Ejecutar el siguiente comando para usar la base de datos
 Use DBBookReview
+
+-- Ya se puede ejecutar el resto del script
 
 Create Table Authors(
 Id_Author Int Primary Key Identity,
@@ -138,7 +142,7 @@ Review_Creation_Date DateTime,
 Foreign Key (Id_Book) References Books(Id_Book),
 Foreign Key (Id_User) References Users(Id_User)
 );
-
+GO
 
 --///////  Procedimientos almacenados////////
 
@@ -164,6 +168,7 @@ Declare @Result Bit
 Set @Result = 0;
 
 Insert Into Reviews
+(Id_Book, Id_User, Name_Review, Review, Status_Review, Review_Creation_Date, Rating)
 Values
 (@Id_Book, @Id_User, @Name_Review, @Review, 1, GETDATE(), @Rating)
 
