@@ -1,1 +1,8 @@
 .vs/*
+WebApiProduccion.Data/obj/*
+WebApiProduccion.Entities/obj/*
+WebApiProduccion/obj/*
+WebApiProduccion/WebApiProduccion.csproj.user
+WebApiProduccion.Data/bin/*
+WebApiProduccion.Entities/bin/*
+WebApiProduccion/bin/*
